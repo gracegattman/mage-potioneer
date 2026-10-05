@@ -1,0 +1,94 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "supplies_objects.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Dungoen Tileset PNG.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "decorative.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "dungeon.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dungeon_floor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dungeon_sprite_sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mainlevbuild.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "supplies_objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tileset-export.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "wip32.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 399.5,
+                "y": 343.5
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/grace/Downloads/Game/map/Level4",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "Dungoen Tileset PNG.tsx",
+        "tileset-export.tsx",
+        "decorative.tsx",
+        "dungeon.tsx",
+        "dungeon_floor.tsx",
+        "dungeon_sprite_sheet.tsx",
+        "Objects.tsx",
+        "Objects.tsx",
+        "supplies_objects.tsx"
+    ],
+    "project": "level4.tiled-project",
+    "recentFiles": [
+        "wip32.tmx",
+        "Dungoen Tileset PNG.tsx",
+        "tileset-export.tsx",
+        "decorative.tsx",
+        "supplies_objects.tsx",
+        "Objects.tsx",
+        "dungeon_sprite_sheet.tsx",
+        "dungeon_floor.tsx",
+        "dungeon.tsx",
+        "mainlevbuild.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
