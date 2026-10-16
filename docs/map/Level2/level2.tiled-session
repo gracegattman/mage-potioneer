@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "assets.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "beach_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 599,
+                "y": 987
+            }
+        },
+        "rope_fence_tiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/grace/Downloads/Game/map/Level2/beach_expansion_v1.1/beach_expansion_v1.1",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "level2.tmx",
+        "assets.tsx",
+        "beach_tiles.tsx"
+    ],
+    "project": "level2.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "beach_tiles.tsx",
+        "assets.tsx",
+        "level2.tmx",
+        "rope_fence_tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

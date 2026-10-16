@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level4.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Other_objects.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "decorative.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "level4.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 650.25,
+                "y": 523.25
+            }
+        },
+        "mainlevbuild.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "supplies_objects.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/grace/Downloads/Game/map/Level4",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "level4.tmx",
+        "supplies_objects.tsx",
+        "Other_objects.tsx",
+        "mainlevbuild.tsx",
+        "decorative.tsx"
+    ],
+    "project": "level4new.tiled-project",
+    "recentFiles": [
+        "decorative.tsx",
+        "mainlevbuild.tsx",
+        "Other_objects.tsx",
+        "supplies_objects.tsx",
+        "level4.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

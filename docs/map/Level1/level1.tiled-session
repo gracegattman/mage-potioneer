@@ -1,0 +1,64 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Plants.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Grass.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "Ground.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Ground.tsx": {
+            "scaleInDock": 1
+        },
+        "Plants.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 800.3333333333333,
+                "y": 799.6666666666666
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/grace/Downloads/Game/map/Level1",
+    "last.imagePath": "C:/Users/grace/Downloads/Game/map/Level1",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "level1.tmx",
+        "Grass.tsj",
+        "Ground.tsj",
+        "Props.tsx",
+        "Plants.tsx"
+    ],
+    "project": "level1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level1.tmx",
+        "Grass.tsj",
+        "Ground.tsj",
+        "Props.tsx",
+        "Plants.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
